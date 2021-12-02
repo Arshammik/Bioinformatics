@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     contigs_55  
+# contigs (>= 0 bp)          499         
+# contigs (>= 1000 bp)       38          
+# contigs (>= 5000 bp)       28          
+# contigs (>= 10000 bp)      26          
+# contigs (>= 25000 bp)      22          
+# contigs (>= 50000 bp)      16          
+Total length (>= 0 bp)       2931337     
+Total length (>= 1000 bp)    2821839     
+Total length (>= 5000 bp)    2796331     
+Total length (>= 10000 bp)   2784783     
+Total length (>= 25000 bp)   2709736     
+Total length (>= 50000 bp)   2494281     
+# contigs                    50          
+Largest contig               243898      
+Total length                 2829860     
+Reference length             2279777     
+GC (%)                       32.72       
+Reference GC (%)             32.66       
+N50                          159616      
+NG50                         165671      
+N75                          122315      
+NG75                         154027      
+L50                          7           
+LG50                         6           
+L75                          12          
+LG75                         9           
+# misassemblies              29          
+# misassembled contigs       13          
+Misassembled contigs length  1646502     
+# local misassemblies        55          
+# scaffold gap ext. mis.     0           
+# scaffold gap loc. mis.     0           
+# unaligned mis. contigs     4           
+# unaligned contigs          16 + 22 part
+Unaligned length             765649      
+Genome fraction (%)          90.340      
+Duplication ratio            1.002       
+# N's per 100 kbp            0.00        
+# mismatches per 100 kbp     838.15      
+# indels per 100 kbp         32.34       
+Largest alignment            172707      
+Total aligned length         2060152     
+NA50                         53227       
+NGA50                        92194       
+NGA75                        34783       
+LA50                         13          
+LGA50                        9           
+LGA75                        20          
